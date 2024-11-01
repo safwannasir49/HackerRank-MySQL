@@ -93,3 +93,24 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |:------:|:----------------------------------------------------------------------------------:|:--------------------------------------------------:|
 |    1   | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [SQL](ADVANCE%20JOIN/SQL%20PROJECT%20PLANNING.sql) |
 |    2   | [Placements](https://www.hackerrank.com/challenges/placements/problem)             | [SQL](ADVANCE%20JOIN/Placements.sql)               |
+
+
+<!-- Contact Section --> 
+<br>
+<br>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="mailto:safwannasir49@gmail.com" target="blank">
+        <img align="center" src="https://www.svgrepo.com/show/484206/mail.svg" alt="safwannasir49@gmail.com" height="30" width="40" />
+    </a>
+    <a href="https://twitter.com/SafwanNasir49" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safwannasir" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/safwan-nasir-955745219" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safwan_nasir_linkedin" height="30" width="40" />
+    </a>
+    <a href="https://www.instagram.com/safwan_nasir_/" target="_blank" rel="noopener noreferrer nofollow">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40">
+    </a>
+</p>
+
