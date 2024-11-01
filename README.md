@@ -94,6 +94,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |    1   | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [SQL](ADVANCE%20JOIN/SQL%20PROJECT%20PLANNING.sql) |
 |    2   | [Placements](https://www.hackerrank.com/challenges/placements/problem)             | [SQL](ADVANCE%20JOIN/Placements.sql)               |
 
+<hr>
 
 <!-- Contact Section --> 
 <br>
