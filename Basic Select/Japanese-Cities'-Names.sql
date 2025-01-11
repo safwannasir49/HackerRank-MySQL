@@ -1,2 +1,1 @@
-# Author: Thomas George Thomas
-select name from city where CountryCode="JPN";
+SELECT * FROM CITY WHERE COUNTRYCODE = 'JPN';
