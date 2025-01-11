@@ -1,2 +1,1 @@
-# Author: Safwan Nasir
-select name from employee order by name;
+SELECT NAME FROM EMPLOYEE ORDER BY NAME ASC;
