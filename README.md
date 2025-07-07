@@ -23,7 +23,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [SQL](https://github.com/safwannasir49/HackerRank-MySQL/tree/main/Basic%20Select/Select%20All)
 | 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [SQL](https://github.com/safwannasir49/HackerRank-MySQL/tree/main/Basic%20Select/Select%20By%20ID)
 | 5 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [SQL](https://github.com/safwannasir49/HackerRank-MySQL/tree/main/Basic%20Select/Japanese%20Cities'%20Attributes)
-| 6 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [SQL](Basic%20Select/Japanese-Cities'-Names.sql)
+| 6 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [SQL](https://github.com/safwannasir49/HackerRank-MySQL/blob/main/Basic%20Select/Japanese%20Cities'%20Names/Japanese%20Cities'%20Names.sql)
 | 7 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [SQL](Basic%20Select/Weather-Observation-Station-1.sql)
 | 8 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [SQL](Basic%20Select/Weather-Observation-Station-3.sql)
 | 9 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [SQL](Basic%20Select/Weather-Observation-Station-4.sql)
@@ -37,7 +37,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 17| [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [SQL](Basic%20Select/Weather-Observation-Station-12.sql)
 | 18| [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [SQL](Basic%20Select/Higher-Than-75-Marks.sql)
 | 19| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [SQL](Basic%20Select/Employee-Names.sql)
-| 20| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [SQL](Basic%20Select/Employee-Salaries.sql)
+| 20| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [SQL](https://github.com/safwannasir49/HackerRank-MySQL/blob/main/Basic%20Select/Employee%20Salaries/Employee%20Salaries.sql)
 
 ### Advanced Select Challenges
 
